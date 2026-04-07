@@ -1,0 +1,5 @@
+{
+  "appId": "com.videodownloader.app",
+  "appName": "Video Downloader",
+  "webDir": "dist"
+}

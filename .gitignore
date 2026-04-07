@@ -1,0 +1,40 @@
+# Node/React
+node_modules/
+dist/
+build/
+.env
+
+# Java/Spring Boot
+target/
+*.class
+
+# Python
+__pycache__/
+venv/
+*.pyc
+
+# .NET
+bin/
+obj/
+dotnet_backend/bin/
+dotnet_backend/obj/
+
+# Local tools/binaries
+backend/tools/yt-dlp.exe
+backend/tools/ffmpeg.exe
+backend/tools/ffmpeg.zip
+backend/tools/ffprobe.exe
+dotnet-install.ps1
+*.zip
+*.exe
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+

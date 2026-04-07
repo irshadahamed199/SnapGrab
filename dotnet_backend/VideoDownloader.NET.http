@@ -1,0 +1,6 @@
+@VideoDownloader.NET_HostAddress = http://localhost:5201
+
+GET {{VideoDownloader.NET_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
