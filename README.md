@@ -7,6 +7,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+![SnapGrab UI Preview](docs/snapgrab-ui.png)
+
 SnapGrab is an enterprise-grade, asynchronous video processing and extraction application. It features a decoupled React (Vite) Single Page Application (SPA) frontend that interfaces with a robust backend API to safely execute, multiplex, and stream native OS binaries (`yt-dlp` and `ffmpeg`).
 
 This project was built to demonstrate architectural understanding, native binary integration, and cross-language benchmarking.
